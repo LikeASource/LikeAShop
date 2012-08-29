@@ -1,0 +1,10 @@
+{
+  "name":    "LikeAShop",
+  "version": "0.0.0",
+  "devDependencies": [
+    "recess",
+    "jshint",
+    "uglify-js",
+    "hogan.js" 
+  ]
+}
